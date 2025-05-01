@@ -4,19 +4,3 @@ addons:
     repository: kreativitat/addon-nightscout
     target: nightscout
     image: kreativitat/image-{arch}-addon-nightscout
-  transmission-nas:
-    repository: kreativitat/addon-transmission-nas
-    target: transmission-nas
-    image: kreativitat/addon-transmission-nas-{arch}
-  lovelace-kindle-screensaver:
-    repository: kreativitat/hass-lovelace-kindle-screensaver
-    target: lovelace-kindle-screensaver
-    image: kreativitat/addon-lovelace-kindle-screensaver-{arch}
-  telegram-bot-amazon:
-    repository: kreativitat/addon-telegram-bot-amazon
-    target: telegram-bot-amazon
-    image: kreativitat/addon-telegram-bot-amazon-{arch}
-  prusaslicer-novnc:
-    repository: kreativitat/prusaslicer-novnc
-    target: prusaslicer-novnc
-    image: kreativitat/image-{arch}-addon-prusaslicer-novnc

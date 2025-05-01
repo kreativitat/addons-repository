@@ -122,11 +122,7 @@ You could also open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
-- [Open an issue for the add-on: Lovelace Kindle Screensaver][lovelace-kindle-screensaver-issue]
 - [Open an issue for the add-on: Nightscout][nightscout-issue]
-- [Open an issue for the add-on: PrusaSlicer][prusaslicer-novnc-issue]
-- [Open an issue for the add-on: Telegram Bot Amazon][telegram-bot-amazon-issue]
-- [Open an issue for the add-on: Transmission NAS][transmission-nas-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
