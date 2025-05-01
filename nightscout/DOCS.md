@@ -24,7 +24,7 @@ comparison to installing any other Home Assistant add-on.
 first time starting the add-on).
 
 **NOTE**: Do not add this repository to Home Assistant, please use:
-`https://github.com/marciogranzotto/addons-repository`.
+`https://github.com/kreativitat/addons-repository`.
 
 ## Configuration
 
@@ -70,7 +70,7 @@ The api key that will be used to login and upload data to Nightscout.
 
 ### Option: `auth_default_roles`
 
-Possible values: `readable` (default), `denied`, `status-only`,  or any valid role name, such as: `admin`, `careportal`, `devicestatus-upload`, and `activity`.
+Possible values: `readable` (default), `denied`, `status-only`, or any valid role name, such as: `admin`, `careportal`, `devicestatus-upload`, and `activity`.
 
 This will set the `AUTH_DEFAULT_ROLES` enviroment variable as described in the [Nightscout documentation][nightscout-docs-features]
 
@@ -134,20 +134,14 @@ Releases are based on [Semantic Versioning][semver], and use the format
 of `MAJOR.MINOR.PATCH`. In a nutshell, the version will be incremented
 based on the following:
 
--   `MAJOR`: Incompatible or major changes.
--   `MINOR`: Backwards-compatible new features and enhancements.
--   `PATCH`: Backwards-compatible bugfixes and package updates.
+- `MAJOR`: Incompatible or major changes.
+- `MINOR`: Backwards-compatible new features and enhancements.
+- `PATCH`: Backwards-compatible bugfixes and package updates.
 
 [keepchangelog]: http://keepachangelog.com/en/1.0.0/
-
-[releases]: https://github.com/marciogranzotto/addon-nightscout/releases
-
-[repository]: https://github.com/marciogranzotto/addons-repository
-
+[releases]: https://github.com/kreativitat/addon-nightscout/releases
+[repository]: https://github.com/kreativitat/addons-repository
 [cgm-remote-monitor]: https://github.com/nightscout/cgm-remote-monitor
-
 [nightscout-docs-features]: https://github.com/nightscout/cgm-remote-monitor#features
-
 [themes-docs]: https://nightscout.github.io/nightscout/setup_variables/#theme-colors
-
 [import-config-docs]: https://nightscout.github.io/nightscout/setup_variables/#import_config

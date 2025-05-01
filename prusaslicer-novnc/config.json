@@ -3,11 +3,9 @@
   "slug": "prusaslicer-novnc",
   "version": "2.5.0-alpha3",
   "description": "PrusaSlicer NoVNC",
-  "url": "https://github.com/marciogranzotto/addon-prusaslicer-novnc",
-  "image": "marciogranzotto/image-{arch}-addon-prusaslicer-novnc",
-  "arch": [
-    "amd64"
-  ],
+  "url": "https://github.com/kreativitat/addon-prusaslicer-novnc",
+  "image": "kreativitat/image-{arch}-addon-prusaslicer-novnc",
+  "arch": ["amd64"],
   "startup": "services",
   "ingress": "true",
   "ingress_stream": "true",
@@ -27,12 +25,7 @@
   "ports_description": {
     "4325/tcp": "NoVNC port"
   },
-  "map": [
-    "ssl",
-    "config:rw",
-    "media:rw",
-    "share:rw"
-  ],
+  "map": ["ssl", "config:rw", "media:rw", "share:rw"],
   "options": {
     "log_level": "info"
   },

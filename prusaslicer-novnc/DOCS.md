@@ -21,7 +21,7 @@ comparison to installing any other Home Assistant add-on.
 first time starting the add-on).
 
 **NOTE**: Do not add this repository to Home Assistant, please use:
-`https://github.com/marciogranzotto/addons-repository`.
+`https://github.com/kreativitat/addons-repository`.
 
 ## Configuration
 
@@ -43,12 +43,10 @@ Releases are based on [Semantic Versioning][semver], and use the format
 of `MAJOR.MINOR.PATCH`. In a nutshell, the version will be incremented
 based on the following:
 
--   `MAJOR`: Incompatible or major changes.
--   `MINOR`: Backwards-compatible new features and enhancements.
--   `PATCH`: Backwards-compatible bugfixes and package updates.
+- `MAJOR`: Incompatible or major changes.
+- `MINOR`: Backwards-compatible new features and enhancements.
+- `PATCH`: Backwards-compatible bugfixes and package updates.
 
 [keepchangelog]: http://keepachangelog.com/en/1.0.0/
-
-[releases]: https://github.com/marciogranzotto/addon-prusaslicer-nonvc/releases
-
-[repository]: https://github.com/marciogranzotto/addons-repository
+[releases]: https://github.com/kreativitat/addon-prusaslicer-nonvc/releases
+[repository]: https://github.com/kreativitat/addons-repository

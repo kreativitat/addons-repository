@@ -1,7 +1,7 @@
 # Home Assistant Add-On for telegram-bot-amazon
 
 **NOTE**: Do not add this repository to Home Assistant, please use:
-`https://github.com/marciogranzotto/addons-repository`.
+`https://github.com/kreativitat/addons-repository`.
 
 ## Configuration
 
@@ -104,5 +104,5 @@ based on the following:
 - `PATCH`: Backwards-compatible bugfixes and package updates.
 
 [keepchangelog]: http://keepachangelog.com/en/1.0.0/
-[releases]: https://github.com/marciogranzotto/addon-telegram-bot-amazon/releases
-[repository]: https://github.com/marciogranzotto/addons-repository
+[releases]: https://github.com/kreativitat/addon-telegram-bot-amazon/releases
+[repository]: https://github.com/kreativitat/addons-repository
