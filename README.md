@@ -144,7 +144,7 @@ Thank you for being involved! :heart_eyes:
 
 MIT License
 
-Copyright (c) 2020 Marcio Granzotto
+Copyright (c) 2020 Kreativitat
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
